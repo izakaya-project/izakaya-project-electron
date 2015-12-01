@@ -2,7 +2,7 @@
 ===============
 
 <p align="center">
-  <img src="http://raw.github.team-lab.local/izakaya-project/izakaya-project-electron/master/image.png">
+  <img src="https://raw.githubusercontent.com/izakaya-project/izakaya-project-electron/master/image.png">
 </p>
 
 ## Overview
@@ -17,7 +17,7 @@ izakaya project develop repository.
 
 set up the electron npm module files.
 
-    npm install electron-prebuilt -g 
+    npm install electron-prebuilt -g
 
 run a electron
 
